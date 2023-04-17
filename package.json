@@ -1,0 +1,23 @@
+{
+  "name": "@shaiyer/tr-core-api",
+  "version": "0.0.1",
+  "description": "package quick start",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaiYer/tr-core-api.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Shai Yerushalmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaiYer/tr-core-api/issues"
+  },
+  "homepage": "https://github.com/ShaiYer/tr-core-api#readme"
+}
