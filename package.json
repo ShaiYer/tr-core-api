@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShaiYer/tr-core-api.git"
+    "url": "git@github.com:ShaiYer/tr-core-api.git"
   },
   "keywords": [
     "test",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ShaiYer/tr-core-api/issues"
   },
-  "homepage": "https://github.com/ShaiYer/tr-core-api#readme"
+  "homepage": "https://github.com/ShaiYer/tr-core-api#readme",
+  "publishConfig": {
+     "@shaiyer:registry": "https://npm.pkg.github.com"
+   }
 }
