@@ -1,6 +1,6 @@
 {
   "name": "@shaiyer/tr-core-api",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "package quick start",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ShaiYer/tr-core-api#readme",
   "publishConfig": {
-     "@shaiyer:registry": "https://npm.pkg.github.com"
-   }
+    "@shaiyer:registry": "https://npm.pkg.github.com"
+  }
 }
